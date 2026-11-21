@@ -14,14 +14,14 @@
 - 💬 Ask me about AWS, Kubernetes, CI/CD, Linux, Monitoring & DevSecOps
 - 👨‍💻 Explore my projects: "RohitCloudLabs" (https://github.com/RohitCloudLabs)
 - 💼 LinkedIn: "Connect with me" (https://www.linkedin.com/in/rohit-rawat-7383091a7/)
-- 📫 Email: rohitrawat89199@gmail.com
+- 📫 Email: rohitrawat891997@gmail.com
 
 ---
 
 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:rohitrawat89199@gmail.com">
+  <a href="mailto:rohitrawat891997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rohit-rawat-7383091a7/">
